@@ -11,6 +11,6 @@
     <string name="permission_cancel">取消</string>
     <string name="permission_ensure">Enter</string>
     <string name="permission_reject">拒绝</string>
-    <string name="permission_btn_next">Next</string>
+    <string name="permission_btn_next">我知道了</string>
     <string name="permission_go_to_setting">Go to Setting</string>
 </resources>
